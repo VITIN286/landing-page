@@ -1,0 +1,54 @@
+@media screen and (max-width: 760px){
+
+    body{
+        padding: 20px;
+    }
+
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+        text-align: center;
+        display: flex;
+        margin-top: 50px;
+    }
+
+    h2{
+        font-size: 38px;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+    }
+
+    img{
+        display: none;
+    }
+
+    .title{
+        display: ;
+    }
+
+    .inscreva-se-btn{
+        text-align: center;
+    }
+
+    #inscreva-se-btn{
+        border: 2px solid rgb(132, 14, 201);
+        padding: 10px;
+        border-radius: 50px;
+    }
+
+    p{
+        text-align: center;
+        padding: 10px;
+    }
+
+}
